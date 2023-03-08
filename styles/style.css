@@ -1,0 +1,10 @@
+body {
+  background-image: url(../img/background-image.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+* {
+  box-sizing: border-box;
+}

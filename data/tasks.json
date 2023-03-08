@@ -1,0 +1,56 @@
+[
+  {
+    "taskName": "shopping",
+    "image": "https://cdn.pixabay.com/photo/2016/03/02/20/13/grocery-1232944_960_720.jpg",
+    "description": "Shop for weekly groceries at Billa",
+    "importance": 0
+  },
+  {
+    "taskName": "learnig",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/15/32/laptop-1839876_960_720.jpg",
+    "description": "Learn for the next codereview",
+    "importance": 0
+  },
+  {
+    "taskName": "work",
+    "image": "https://cdn.pixabay.com/photo/2015/01/19/20/36/cafe-604600_960_720.jpg",
+    "description": "Work as a waiter in Restaurant",
+    "importance": 0
+  },
+  {
+    "taskName": "website",
+    "image": "https://cdn.pixabay.com/photo/2017/07/09/21/44/sitemap-2488231_960_720.jpg",
+    "description": "Building my Portfolio website",
+    "importance": 0
+  },
+  {
+    "taskName": "holiday",
+    "image": "https://cdn.pixabay.com/photo/2019/05/10/18/48/egypt-4194196_960_720.jpg",
+    "description": "One week holiday in Egypt",
+    "importance": 0
+  },
+  {
+    "taskName": "job",
+    "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg",
+    "description": "Search a job as a Programmer",
+    "importance": 0
+  },
+  {
+    "taskName": "course",
+    "image": "https://cdn.pixabay.com/photo/2019/12/29/19/40/online-4727942_960_720.jpg",
+    "description": "Do a coding online cours",
+    "importance": 0
+  },
+  {
+    "taskName": "car",
+    "image": "https://cdn.pixabay.com/photo/2022/06/29/07/52/car-7291166_960_720.jpg",
+    "description": "Washing my car",
+    "importance": 0
+  },
+  {
+    "taskName": "motorcycle",
+    "image": "https://cdn.pixabay.com/photo/2014/07/31/23/10/biker-407123_960_720.jpg",
+    "description": "Buy a new motorcycle",
+    "importance": 0
+  }
+]
